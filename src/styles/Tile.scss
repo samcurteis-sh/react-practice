@@ -1,0 +1,11 @@
+.tile {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 20%;
+    height: 25%;
+    margin: 10px;
+    border: 2px solid black;
+}
